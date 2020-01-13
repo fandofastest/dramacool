@@ -89,6 +89,7 @@
         android:layout_centerInParent="true"
         android:layout_marginBottom="15dp"
         android:clickable="true"
+        android:visibility="gone"
         android:tint="@android:color/white"
         app:backgroundTint="@color/colorPrimary"
         app:elevation="2dp"
